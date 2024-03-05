@@ -10,7 +10,7 @@ tankira@pixelraft:~$ ./about.sh
 ├─ ◈ Li²µÓÎÉ£ÂÄæìõúÚ¹Ü½¹µ
   
 An exception has occurred
-File "about.sh", line 307
+File "about.sh", line 5
 see "traceback.txt" for details
   
 </pre>
