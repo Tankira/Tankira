@@ -3,17 +3,25 @@
 Pixelraft Terminal [ Version 1.0.0.0 ]
 tankira@pixelraft:~$ ./about.sh
 
-┌──┤ ABOUT ├────────────────────────
-|
+┌──┤ ABOUT ├──────────────────────────
 ├─ ◈ Name: Tài aka Tankira/Taine
 ├─ ◈ Age: 14
 ├─ ◈ Location: Phu Yen, Viet Nam
 ├─ ◈ 8th grade students
-²ÓÎÉ£ÂÄæúÚ¹Ü½¹µ²ÓÎÉ£ÂÄæúÚ¹Ü½¹µ
-└────────────────²ÓÎÉ£ÂÄæúÚ²ÓÎÉ£ÂÄæúÚ¹Ü½¹µ
+├─ ◈ Email: lunamc.bazer@gmail.com  
+└─────────────────────────────────────
+
+┌──┤ PROGRAMMING LANGUAGE ├───────────
+├─ ◈ HTML <80%>
+├─ ◈ CSS <50%>
+├─ ◈ PASCAL < 'IDK:)' >
+├─ ◈ C++ <5%>
+└─────────────────────────────────────
+
+Press 'space' to conti²ÓÎÉ£ÂÄæúÚ¹Ü½¹µ
   
 An exception has occurred
-File "about.sh", line 8
+File "more.sh", line 16
 see "traceback.txt" for details
   
 </pre>
