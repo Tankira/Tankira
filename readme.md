@@ -12,9 +12,10 @@ tankira@pixelraft:~$ ./about.sh
 └─────────────────────────────────────
 
 ┌──┤ PROGRAMMING LANGUAGE ├───────────
-├─ ◈ HTML <80%>
-├─ ◈ CSS <50%>
-├─ ◈ PASCAL < 'IDK:)' >
+├─ ◈ HTML <50%>
+├─ ◈ CSS <20%>
+├─ ◈ JAVASCRIPT <0% :(>
+├─ ◈ PASCAL < 10% >
 ├─ ◈ C++ <5%>
 └─────────────────────────────────────
 
