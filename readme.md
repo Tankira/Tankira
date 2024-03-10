@@ -4,10 +4,9 @@ Pixelraft Terminal [ Version 1.0.0.0 ]
 tankira@pixelraft:~$ ./about.sh
 
 ┌──┤ ABOUT ├─────────────────────────────────────────────────────
-├─ ◈ Name: Tài aka Tankira/Taine
+├─ ◈ Name: Tankira/Taine
 ├─ ◈ Age: 14
-├─ ◈ Location: Phu Yen, Viet Nam
-├─ ◈ 8th grade students
+├─ ◈ Location: Null, Viet Nam
 ├─ ◈ Email: lunamc.bazer@gmail.com  
 └────────────────────────────────────────────────────────────────
 
