@@ -4,7 +4,8 @@ Pixelraft Terminal [ Version 1.0.0.0 ]
 tankira@pixelraft → about.sh
 
 ┌──┤ ABOUT ├───────────────────────────────────────────────────────────
-├─ ◈ Name: Tankira/Taine
+├─ ◈ Name: BT Tài
+├─ ◈ Nickname: Tankira, Taine
 ├─ ◈ Age: 14
 ├─ ◈ Location: Null, Viet Nam
 ├─ ◈ Founder of Pixelraft Team
